@@ -15,7 +15,7 @@
 </script>
 
 <div id="work" class="pb-14 px-0 pt-8">
-  <h2 class="text-center font-normal text-2xl md:text-4xl text-white py-16">
+  <h2 class="text-center font-[400] text-2xl md:text-4xl text-white py-16">
     These are some of my projects
   </h2>
   <div
@@ -24,11 +24,11 @@
     <div class="">
       <img src={EasyBank} alt="" />
       <a
-        class="block font-normal text-white text-xl md:text-2xl py-2"
+        class="block font-[400] text-white text-xl md:text-2xl py-2"
         href="https://davethadev.github.io/easybank-landing-page/"
         >Easybank landing page</a
       >
-      <p class="font-normal text-[#999999] px-0 pb-14 text-base md:text-lg">
+      <p class="font-[400] text-[#999999] px-0 pb-14 text-base md:text-lg">
         A landing page design from <a
           class="text-base text-white"
           href="https://www.frontendmentor.io/challenges/easybank-landing-page-WaUhkoDN"
@@ -40,11 +40,11 @@
     <div class="">
       <img src={Gradie} alt="" />
       <a
-        class="block font-normal text-white text-xl md:text-2xl py-2"
+        class="block font-[400] text-white text-xl md:text-2xl py-2"
         href="https://davethadev.github.io/Gradie-sign-up/"
         >Gradie Sign Up Page</a
       >
-      <p class="font-normal text-[#999999] px-0 pb-14 text-base md:text-lg">
+      <p class="font-[400] text-[#999999] px-0 pb-14 text-base md:text-lg">
         A simple sign up page design from <a
           class="text-base text-white"
           href="https://www.codewell.cc/challenges/gradie-sign-up-page--608ac420650dff001599e8ec"
@@ -55,11 +55,11 @@
     <div class="">
       <img src={Snipper} alt="" />
       <a
-        class="block font-normal text-white text-xl md:text-2xl py-2"
+        class="block font-[400] text-white text-xl md:text-2xl py-2"
         href="https://davethadev.github.io/snippet-template-page/"
         >Snipper Landing page</a
       >
-      <p class="font-normal text-[#999999] px-0 pb-14 text-base md:text-lg">
+      <p class="font-[400] text-[#999999] px-0 pb-14 text-base md:text-lg">
         A design from <a
           class="text-base text-white"
           href="https://www.codewell.cc/challenges/snipper-landing-page--608bbe67e0984a001540d79b"
@@ -71,10 +71,10 @@
     <div class="">
       <img src={SignUpForm} alt="" />
       <a
-        class="block font-normal text-white text-xl md:text-2xl py-2"
+        class="block font-[400] text-white text-xl md:text-2xl py-2"
         href="https://davethadev.github.io/sign-up-page/">Sign-Up Form</a
       >
-      <p class="font-normal text-[#999999] px-0 pb-14 text-base md:text-lg">
+      <p class="font-[400] text-[#999999] px-0 pb-14 text-base md:text-lg">
         A sign-up form completed as one of the many projects from <a
           class="text-base text-white"
           href="https://www.theodinproject.com/lessons/node-path-intermediate-html-and-css-sign-up-form"
@@ -85,10 +85,10 @@
     <div class="">
       <img src={UnifeedBlog} alt="" />
       <a
-        class="block font-normal text-white text-xl md:text-2xl py-2"
+        class="block font-[400] text-white text-xl md:text-2xl py-2"
         href="https://davethadev.github.io/unifeed-blog/">Unifeed Blog page</a
       >
-      <p class="font-normal text-[#999999] px-0 pb-14 text-base md:text-lg">
+      <p class="font-[400] text-[#999999] px-0 pb-14 text-base md:text-lg">
         A design from <a
           class="text-base text-white"
           href="https://www.codewell.cc/challenges/unifeed-blog-page--608d9d5c747bad001532bd7c"
@@ -99,11 +99,11 @@
     <div class="">
       <img src={Commune} alt="" />
       <a
-        class="block font-normal text-white text-xl md:text-2xl py-2"
+        class="block font-[400] text-white text-xl md:text-2xl py-2"
         href="https://davethadev.github.io/commune-waitlist-landing-page/"
         >Commune Waitlist page</a
       >
-      <p class="font-normal text-[#999999] px-0 pb-14 text-base md:text-lg">
+      <p class="font-[400] text-[#999999] px-0 pb-14 text-base md:text-lg">
         Another design from <a
           href="https://www.codewell.cc/challenges/commune-waitlist-page--608d9565747bad001532bd64"
           >codewell</a
@@ -114,11 +114,11 @@
     <div class="">
       <img src={Insure} alt="" />
       <a
-        class="block font-normal text-white text-xl md:text-2xl py-2"
+        class="block font-[400] text-white text-xl md:text-2xl py-2"
         href="https://davethadev.github.io/insure-landing-page/"
         >Insure landing page</a
       >
-      <p class="font-normal text-[#999999] px-0 pb-14 text-base md:text-lg">
+      <p class="font-[400] text-[#999999] px-0 pb-14 text-base md:text-lg">
         Another design from <a
           class="text-base text-white"
           href="https://www.frontendmentor.io/challenges/insure-landing-page-uTU68JV8"
@@ -131,11 +131,11 @@
     <div class="">
       <img src={LoopStudios} alt="" />
       <a
-        class="block font-normal text-white text-xl md:text-2xl py-2"
+        class="block font-[400] text-white text-xl md:text-2xl py-2"
         href="https://davethadev.github.io/loopstudios-landing-page/"
         >Loopstudios landing page</a
       >
-      <p class="font-normal text-[#999999] px-0 pb-14 text-base md:text-lg">
+      <p class="font-[400] text-[#999999] px-0 pb-14 text-base md:text-lg">
         Another design from <a
           class="text-base text-white"
           href="https://www.frontendmentor.io/challenges/loopstudios-landing-page-N88J5Onjw"
@@ -147,11 +147,11 @@
     <div class="">
       <img src={SunnySide} alt="" />
       <a
-        class="block font-normal text-white text-xl md:text-2xl py-2"
+        class="block font-[400] text-white text-xl md:text-2xl py-2"
         href="https://davethadev.github.io/sunny-side-agency-landing-page/"
         >Sunnyside agency landing page</a
       >
-      <p class="font-normal text-[#999999] px-0 pb-14 text-base md:text-lg">
+      <p class="font-[400] text-[#999999] px-0 pb-14 text-base md:text-lg">
         Another design from <a
           class="text-base text-white"
           href="https://www.frontendmentor.io/challenges/sunnyside-agency-landing-page-7yVs3B6ef"
@@ -164,11 +164,11 @@
     <div class="">
       <img src={Fylo} alt="" />
       <a
-        class="block font-normal text-white text-xl md:text-2xl py-2"
+        class="block font-[400] text-white text-xl md:text-2xl py-2"
         href="https://davethadev.github.io/fylo-dark-theme-landing-page"
         >Fylo landing page</a
       >
-      <p class="font-normal text-[#999999] px-0 pb-14 text-base md:text-lg">
+      <p class="font-[400] text-[#999999] px-0 pb-14 text-base md:text-lg">
         Another design from <a
           class="text-base text-white"
           href="https://www.frontendmentor.io/challenges/fylo-dark-theme-landing-page-5ca5f2d21e82137ec91a50fd"
@@ -181,11 +181,11 @@
     <div class="">
       <img src={Chirp} alt="" />
       <a
-        class="block font-normal text-white text-xl md:text-2xl py-2"
+        class="block font-[400] text-white text-xl md:text-2xl py-2"
         href="https://davethadev.github.io/Chirp-landing-page/"
         >Chirp landing page</a
       >
-      <p class="font-normal text-[#999999] px-0 pb-14 text-base md:text-lg">
+      <p class="font-[400] text-[#999999] px-0 pb-14 text-base md:text-lg">
         A design from <a
           class="text-base text-white"
           href="https://www.codewell.cc/challenges/chirp-landing-page--60fc1e36a383e41090a3c71c"
@@ -197,11 +197,11 @@
     <div class="">
       <img src={Clipboard} alt="" />
       <a
-        class="block font-normal text-white text-xl md:text-2xl py-2"
+        class="block font-[400] text-white text-xl md:text-2xl py-2"
         href="https://davethadev.github.io/clip-board-landing-page/"
         >Clipboard landing page</a
       >
-      <p class="font-normal text-[#999999] px-0 pb-14 text-base md:text-lg">
+      <p class="font-[400] text-[#999999] px-0 pb-14 text-base md:text-lg">
         A design from <a
           class="text-base text-white"
           href="https://www.frontendmentor.io/challenges/clipboard-landing-page-5cc9bccd6c4c91111378ecb9"
@@ -212,10 +212,10 @@
     <div class="">
       <img src={LandingPage} alt="" />
       <a
-        class="block font-normal text-white text-xl md:text-2xl py-2"
+        class="block font-[400] text-white text-xl md:text-2xl py-2"
         href="https://davethadev.github.io/landing-page/">Landing page</a
       >
-      <p class="font-normal text-[#999999] px-0 pb-14 text-base md:text-lg">
+      <p class="font-[400] text-[#999999] px-0 pb-14 text-base md:text-lg">
         A simple landing page design completed as one of the many projects from <a
           class="text-base text-white"
           href="https://www.theodinproject.com/lessons/foundations-landing-page"
