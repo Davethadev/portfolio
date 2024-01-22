@@ -39,7 +39,7 @@
   <section class="w-full">
     <div class="w-full px-4 md:px-0 md:w-[55%] mx-auto">
       {#if loading}
-        <div class="w-full h-screen flex justify-center items-center">
+        <div class="w-full flex justify-center items-center mt-40">
           <div class="loader"></div>
         </div>
         <!-- <p class="w-full h-screen flex justify-center items-center">

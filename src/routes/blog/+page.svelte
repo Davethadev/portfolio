@@ -33,12 +33,16 @@
     <h1 class="text-2xl font-bold text-center py-8">My Blog posts</h1>
     <div class="w-[85%] mx-auto py-4">
       {#if loading}
-        <div class="w-full h-screen flex justify-center items-center">
+        <div class="w-full flex justify-center items-center mt-40">
           <div class="loader"></div>
         </div>
         <!-- <p class="w-full h-screen flex justify-center items-center">
           Loading...
         </p> -->
+      {:else if blogPosts && blogPosts.length === 0}
+        <p class="text-base font-[500] text-center mt-40">
+          No blog posts yet😥
+        </p>
       {:else if blogPosts}
         <div class="grid grid-cols-1 gap-4">
           {#each blogPosts as post (post._id)}
