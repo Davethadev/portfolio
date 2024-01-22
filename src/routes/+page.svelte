@@ -176,6 +176,10 @@
         <button class="uppercase text-white mt-4 flex justify-center w-full"
           >Contact</button
         >
+        <a
+          class="uppercase text-white mt-4 flex justify-center w-full"
+          href="/blog">Blog</a
+        >
         <button
           class="w-fit mx-auto text-center font-[400] py-1 px-4 text-black bg-yellow-300 text-base rounded mt-4"
           href="mailto: david_umanah@yahoo.com">Get in touch</button
@@ -375,7 +379,9 @@
         <a class="block text-xl" href="https://github.com/Davethadev"
           ><Icon icon="mdi:github" style="font-size: 28px" /></a
         >
-        <a class="block text-xl" href=""
+        <a
+          class="block text-xl"
+          href="https://www.linkedin.com/in/david-umanah-364a2924b?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app"
           ><Icon icon="mingcute:linkedin-fill" style="font-size: 28px" /></a
         >
         <a class="block text-xl" href="https://mobile.twitter.com/_callmedaveed"
